@@ -46,7 +46,7 @@ Project is created with:
 Run this as a Java project
 
 ```
-Launcher or main() method can be found in LockedMe class under src folder
+Launcher or main() method can be found in Main class under src folder
 ```
 
 
